@@ -15,7 +15,7 @@
     $konsonan = 0;
     $jml_huruf = 0;
     ?>
-    <h3>Anggota Keluarga</h3>
+    <h3>Nama Anggota Keluarga</h3>
     <ol>
         <?php foreach ($nama as $nama) { ?>
             <li><?= $nama; ?>
